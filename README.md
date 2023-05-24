@@ -140,8 +140,8 @@ Y= A⊕B
 
 ## Timing Diagram:
 
-![Screenshot (174)](https://github.com/Janarthanan2/DIGITAL_ELECTRONICS_EX1_final/assets/119393515/756778c4-87f4-4ce7-9914-8a2f1fca4bcb)
 
+![timing diagram](https://github.com/Janarthanan2/DIGITAL_ELECTRONICS_EX1_final/assets/119393515/39fd4228-048f-4928-846a-0689a6e5b182)
 
 
 ## Result:
